@@ -1,2 +1,3 @@
 # IDE
-![Screenshot 2022-12-06 at 2 52 13 PM](https://user-images.githubusercontent.com/108974484/205871551-7c0da7f2-4f80-4d53-9737-79bfa8e32ae8.png)
+
+![Screenshot 2022-12-06 at 3 25 33 PM](https://user-images.githubusercontent.com/108974484/205879047-4efee2ad-8de4-4ffc-b350-3a27cafb4aea.png)
